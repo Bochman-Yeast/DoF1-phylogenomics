@@ -104,7 +104,7 @@ The notebook is designed to run entirely in **Google Colab** — no local instal
 
 If you use this pipeline, please cite:
 
-> [Authors]. (2025). DoF1 Phylogenomics Pipeline (Version 1.0) [Software]. Zenodo. https://doi.org/[DOI PENDING]
+> Bochman, M. (2025). *DoF1 phylogenomics pipeline* (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.20679384
 
 ---
 
