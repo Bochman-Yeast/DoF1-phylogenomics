@@ -1,0 +1,14 @@
+strain,species,lineage,ncbi_accession,notes
+DoF1,Saccharomyces cerevisiae,wild_environmental,PRJNA1477971,Novel isolate from Indiana University Bloomington; this study
+S288c,Saccharomyces cerevisiae,laboratory,GCF_000146045.2,Standard reference genome (SGD)
+W303,Saccharomyces cerevisiae,laboratory,GCA_002163515.1,Common lab strain
+SK1,Saccharomyces cerevisiae,laboratory,GCA_001524775.2,Sporulation model strain
+YJM993,Saccharomyces cerevisiae,clinical,GCA_000977955.1,Human clinical isolate
+EC1118,Saccharomyces cerevisiae,wine,GCF_000218975.1,Champagne wine strain
+AWRI1631,Saccharomyces cerevisiae,wine,GCA_000182765.2,Australian wine strain
+JAY291,Saccharomyces cerevisiae,bioethanol,GCA_000182745.2,Brazilian bioethanol strain
+RM11-1a,Saccharomyces cerevisiae,wild_environmental,GCA_000149365.1,Wild isolate (Napa Valley vineyard)
+CLIB89,Saccharomyces cerevisiae,beer,GCA_003054445.1,Beer/ale strain
+CLIB324,Saccharomyces cerevisiae,beer,GCA_003054405.1,Beer/ale strain
+Spar_CBS432,Saccharomyces paradoxus,outgroup,GCA_002079055.1,Outgroup for tree rooting
+Spar_N44,Saccharomyces paradoxus,outgroup,GCF_000292725.1,Outgroup for tree rooting
